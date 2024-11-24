@@ -1,0 +1,8 @@
+name: SPrefix_PlayerTitle
+version: '1.20.1'
+main: me.shark0822.sPrefix_PlayerTitle.Main
+api-version: '1.20'
+softdepend:
+  - LuckPerms
+commands:
+  칭호:
